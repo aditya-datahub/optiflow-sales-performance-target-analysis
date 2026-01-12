@@ -114,7 +114,7 @@ A custom tooltip was designed for **Profit Margin %** to:
 - Improve dashboard interpretability
 
 📁 Add image here:
-assets/profit_margin_tooltip.png
+![Profit Margin Tooltip](assets/profit_margin_tooltip.png)
 
 ---
 
